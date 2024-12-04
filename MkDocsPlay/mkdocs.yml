@@ -1,1 +1,4 @@
 site_name: My Docs
+site_url: https://ladywoland.github.io/MKDocs/
+theme:
+  name: material
